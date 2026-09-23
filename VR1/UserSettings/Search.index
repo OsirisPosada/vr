@@ -1,13 +1,3 @@
-{
-    "name": "Assets",
-    "roots": ["Assets","Packages"],
-    "includes": [],
-    "excludes": ["Assets/Temp/", "Assets/External/"],
-    "options": {
-        "types": true,
-        "properties": true,
-        "extended": false,
-        "dependencies": true
-    },
-    "baseScore": 999
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:287cc8b5c4f5e691da404c7b60594e939e35d4c646e09224d910dc4064870f17
+size 299
