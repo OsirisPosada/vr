@@ -120,7 +120,7 @@
                     "name": "Disparador Nivel de Presion",
                     "type": "Value",
                     "id": "6881f520-d9e3-4449-8467-90ec6565995b",
-                    "expectedControlType": "Analog",
+                    "expectedControlType": "Axis",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true,
@@ -282,7 +282,7 @@
                 {
                     "name": "",
                     "id": "0206080e-591a-48ee-bfca-a88d1b801aa7",
-                    "path": "<XRController>{LeftHand}/{TriggerSlide}",
+                    "path": "<XRController>{LeftHand}/{Trigger}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

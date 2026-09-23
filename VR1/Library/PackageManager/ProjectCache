@@ -1,28 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/MULTIMEDIA/Documents/00 ESTUDIANTES/POSADA MONTERO OSIRIS
-      DANIELA/VR1/Packages/manifest.json
+    m_FilePath: D:/GitHub/vr/VR1/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639256304030256397
-    m_Hash: 1012093821
+      ticks: 639257852069937851
+    m_Hash: 993506347
   m_LockFileStatus:
-    m_FilePath: C:/Users/MULTIMEDIA/Documents/00 ESTUDIANTES/POSADA MONTERO OSIRIS
-      DANIELA/VR1/Packages/packages-lock.json
+    m_FilePath: D:/GitHub/vr/VR1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639256304283157264
-    m_Hash: 929917790
+      ticks: 639257852069947917
+    m_Hash: 4057906833
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/MULTIMEDIA/Documents/00 ESTUDIANTES/POSADA MONTERO OSIRIS
-  DANIELA/VR1/Packages
+m_ProjectPath: D:/GitHub/vr/VR1/Packages
 m_EditorVersion: 6000.5.8f1 (5cb7df797b7d)
 m_ResolvedPackages:
 - packageId: com.unity.feature.development@1.0.2
@@ -31,8 +28,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.2
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -156,8 +152,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.0.39
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.ide.rider@4504839d03f7
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.ide.rider@4504839d03f7
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -307,8 +302,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.20.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -531,8 +525,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 5.0.4
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.learn.iet-framework@b6db3036d2a7
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.learn.iet-framework@b6db3036d2a7
   assetPath: Packages/com.unity.learn.iet-framework
   name: com.unity.learn.iet-framework
   displayName: Tutorial Framework
@@ -725,8 +718,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.multiplayer.center@b860850997d0
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.multiplayer.center@b860850997d0
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -837,8 +829,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.5.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.render-pipelines.universal@73b4c4ff130e
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.render-pipelines.universal@73b4c4ff130e
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -970,8 +961,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.8.12
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.timeline@8cd8509afae5
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.timeline@8cd8509afae5
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1176,8 +1166,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.3.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.androidxr-openxr@85a4ea3b26b6
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.androidxr-openxr@85a4ea3b26b6
   assetPath: Packages/com.unity.xr.androidxr-openxr
   name: com.unity.xr.androidxr-openxr
   displayName: Unity OpenXR Android XR
@@ -1379,8 +1368,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.5.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.arfoundation@13d2457b468b
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.arfoundation@13d2457b468b
   assetPath: Packages/com.unity.xr.arfoundation
   name: com.unity.xr.arfoundation
   displayName: AR Foundation
@@ -1719,8 +1707,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.5.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.compositionlayers@2843cb312e13
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.compositionlayers@2843cb312e13
   assetPath: Packages/com.unity.xr.compositionlayers
   name: com.unity.xr.compositionlayers
   displayName: XR Composition Layers
@@ -1871,8 +1858,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.6.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.core-utils@a8b900321199
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.core-utils@a8b900321199
   assetPath: Packages/com.unity.xr.core-utils
   name: com.unity.xr.core-utils
   displayName: XR Core Utilities
@@ -2013,8 +1999,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.8.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.hands@0908de89928b
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.hands@0908de89928b
   assetPath: Packages/com.unity.xr.hands
   name: com.unity.xr.hands
   displayName: XR Hands
@@ -2207,8 +2192,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.5.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.interaction.toolkit@63ca3b7ce776
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.interaction.toolkit@63ca3b7ce776
   assetPath: Packages/com.unity.xr.interaction.toolkit
   name: com.unity.xr.interaction.toolkit
   displayName: XR Interaction Toolkit
@@ -2468,8 +2452,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 4.5.4
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.management@e3a3882b360a
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.management@e3a3882b360a
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -2651,8 +2634,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.5.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.meta-openxr@6d169a09f2c7
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.meta-openxr@6d169a09f2c7
   assetPath: Packages/com.unity.xr.meta-openxr
   name: com.unity.xr.meta-openxr
   displayName: Unity OpenXR Meta
@@ -2850,8 +2832,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.17.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.openxr@58837b2992e0
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.openxr@58837b2992e0
   assetPath: Packages/com.unity.xr.openxr
   name: com.unity.xr.openxr
   displayName: OpenXR Plugin
@@ -3043,8 +3024,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.accessibility
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.accessibility
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -3134,8 +3114,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.adaptiveperformance
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.adaptiveperformance
   assetPath: Packages/com.unity.modules.adaptiveperformance
   name: com.unity.modules.adaptiveperformance
   displayName: Adaptive Performance
@@ -3231,8 +3210,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.ai
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.ai
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -3322,8 +3300,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.androidjni
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.androidjni
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -3416,8 +3393,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.animation
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.animation
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -3507,8 +3483,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.assetbundle
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.assetbundle
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -3598,8 +3573,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.audio
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.audio
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -3689,8 +3663,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.cloth
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.cloth
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -3784,8 +3757,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.director
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.director
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -3883,8 +3855,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.imageconversion
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.imageconversion
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -3974,8 +3945,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.imgui
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.imgui
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -4065,8 +4035,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.jsonserialize
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.jsonserialize
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -4156,8 +4125,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.particlesystem
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.particlesystem
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -4247,8 +4215,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.physics
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.physics
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -4338,8 +4305,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.physics2d
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.physics2d
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -4433,8 +4399,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.physicscore2d
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.physicscore2d
   assetPath: Packages/com.unity.modules.physicscore2d
   name: com.unity.modules.physicscore2d
   displayName: Physics Core 2D
@@ -4524,8 +4489,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.screencapture
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.screencapture
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -4619,8 +4583,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.terrain
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.terrain
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -4710,8 +4673,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.terrainphysics
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.terrainphysics
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -4809,8 +4771,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.tilemap
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.tilemap
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -4905,8 +4866,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.ui
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.ui
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -4996,8 +4956,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.uielements
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.uielements
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -5111,8 +5070,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.umbra
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.umbra
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -5202,8 +5160,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.unityanalytics
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.unityanalytics
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -5300,8 +5257,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.unitywebrequest
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.unitywebrequest
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -5391,8 +5347,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -5490,8 +5445,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.unitywebrequestaudio
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.unitywebrequestaudio
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -5589,8 +5543,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.unitywebrequesttexture
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.unitywebrequesttexture
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -5688,8 +5641,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.unitywebrequestwww
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.unitywebrequestwww
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -5803,8 +5755,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.vectorgraphics
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.vectorgraphics
   assetPath: Packages/com.unity.modules.vectorgraphics
   name: com.unity.modules.vectorgraphics
   displayName: Vector Graphics
@@ -5915,8 +5866,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.vehicles
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.vehicles
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -6010,8 +5960,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.video
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.video
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -6113,8 +6062,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.wind
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.wind
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -6204,8 +6152,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.xr
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.xr
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -6307,8 +6254,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.subsystems
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.subsystems
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -6402,8 +6348,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.modules.hierarchycore
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.modules.hierarchycore
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -6493,8 +6438,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.0.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.xr.legacyinputhelpers@3f62d634f63b
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.xr.legacyinputhelpers@3f62d634f63b
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -6633,8 +6577,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.5.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.ugui@1c4864518158
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.ugui@1c4864518158
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: uGUI
@@ -6757,8 +6700,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.4.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.mathematics@981956d94fb6
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.mathematics@981956d94fb6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -6850,8 +6792,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.1.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.editorcoroutines@87a15ed012c2
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.editorcoroutines@87a15ed012c2
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -6957,8 +6898,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.5.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.render-pipelines.core@a4c9a9793789
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.render-pipelines.core@a4c9a9793789
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -7081,8 +7021,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.5.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.shadergraph@8d7376ec43ee
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.shadergraph@8d7376ec43ee
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -7203,8 +7142,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.5.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.render-pipelines.universal-config@fdda01c80fe3
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.render-pipelines.universal-config@fdda01c80fe3
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -7317,8 +7255,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.1.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.settings-manager@0b8638c5ce86
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.settings-manager@0b8638c5ce86
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -7419,8 +7356,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.1.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.ext.nunit@44f7d31723bd
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.ext.nunit@44f7d31723bd
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -7513,8 +7449,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.0.26
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -7647,8 +7582,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.4.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.performance.profile-analyzer@2bb26871883c
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.performance.profile-analyzer@2bb26871883c
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -7769,8 +7703,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.7.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.test-framework@1405238725ab
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.test-framework@1405238725ab
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -7873,8 +7806,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.3.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.testtools.codecoverage@19a841221620
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.testtools.codecoverage@19a841221620
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -8040,8 +7972,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 4.9.5
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.searcher@a463122f2c00
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.searcher@a463122f2c00
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -8152,8 +8083,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.8.30
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.burst@2f3d916873ea
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.burst@2f3d916873ea
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -8422,8 +8352,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.5.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.collections@ec2c217e4cb2
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.collections@ec2c217e4cb2
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -8540,8 +8469,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.11.6
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -8648,8 +8576,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.5.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS
-    DANIELA\VR1\Library\PackageCache\com.unity.test-framework.performance@8b56083ec0f0
+  resolvedPath: D:\GitHub\vr\VR1\Library\PackageCache\com.unity.test-framework.performance@8b56083ec0f0
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
