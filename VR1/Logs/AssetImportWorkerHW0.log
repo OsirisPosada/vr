@@ -1,27 +1,27 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.5/staging' branch; Version is '6000.5.8f1 (5cb7df797b7d) revision 6076383'; Using compiler version '194234433'; Build Type 'Release'
-OS: 'Windows 11  (10.0.26200) ProfessionalWorkstation' Language: 'es' Physical Memory: 30607 MB
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Tokyusk" at "2026-09-23T18:55:33.7272218Z"
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'es' Physical Memory: 15993 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-LABORATORIO" at "2026-09-24T00:02:27.1921407Z"
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
 System  architecture: x64
 Process architecture: x64
-Date: 2026-09-23T18:55:33Z
+Date: 2026-09-24T00:02:27Z
 
 COMMAND LINE ARGUMENTS:
-D:\Unity Hub\6000.5.8f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorkerHW0
 -projectPath
-D:/GitHub/vr/VR1
+C:/Users/MULTIMEDIA/Desktop/Pruebas Github/vr/VR1
 -logFile
 Logs/AssetImportWorkerHW0.log
 -srvPort
-53113
+54936
 -parentPid
-29960
+18712
 -analyticsCloudUserId
 anonymous
 -analyticsLocalProjectId
@@ -31,12 +31,12 @@ anonymous
 -cbmEditorLicense
 c064f94f4c9dc75297255aeb543f4cea23bfbdd9
 -cbmMachineId
-UZOGfRQEpFHW+KJ4qMVLIVXU7Bo=
+UcZ7RCAKPSsWTklzB5NEknOmBLo=
 -licensingIpc
-LicenseClient-Tokyusk
+LicenseClient-LABORATORIO
 -noDiagnosticSwitchPersistentStore
 -job-worker-count
-5
+7
 -background-job-worker-count
 8
 -asset-garbage-collectors
@@ -44,8 +44,8 @@ LicenseClient-Tokyusk
 -force-d3d12
 -name
 AssetImport
-Successfully changed project path to: D:/GitHub/vr/VR1
-D:/GitHub/vr/VR1
+Successfully changed project path to: C:/Users/MULTIMEDIA/Desktop/Pruebas Github/vr/VR1
+C:/Users/MULTIMEDIA/Desktop/Pruebas Github/vr/VR1
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
@@ -82,13 +82,13 @@ D:/GitHub/vr/VR1
     "memorysetup-job-temp-allocator-block-size=2097152"
     "memorysetup-job-temp-allocator-block-size-background=1048576"
     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
-Player connection [2676]  Target information:
+Player connection [7420]  Target information:
 
-Player connection [2676]  * "[IP] 192.168.1.3 [Port] 0 [Flags] 2 [Guid] 4215675119 [EditorId] 4215675119 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-V3EK4CR) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [7420]  * "[IP] 172.16.10.99 [Port] 0 [Flags] 2 [Guid] 188403466 [EditorId] 188403466 [Version] 1048832 [Id] WindowsEditor(7,S3-LDIM-PC09) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [2676] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [2676] Host joined alternative multi-casting on [225.0.0.222:34997]...
-JobSystem: Creating JobQueue using job-worker-count value 5
+Player connection [7420] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [7420] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -103,53 +103,53 @@ Library Redirect Path: Library/
 [Licensing::Client] Error: HandshakeResponse reported an error:
 	ResponseCode: 505
 	ResponseStatus: Unsupported protocol version '1.18.1'.
-[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Tokyusk"
-[Licensing::IpcConnector] LicenseClient-Tokyusk channel disconnected successfully.
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Tokyusk-6000.5.8" at "2026-09-23T18:55:35.8740713Z"
-[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 30412, path: "D:/Unity Hub/6000.5.8f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-LABORATORIO"
+[Licensing::IpcConnector] LicenseClient-LABORATORIO channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-LABORATORIO-6000.5.8" at "2026-09-24T00:02:28.1567148Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 9940, path: "C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
 [Licensing::Module] LicensingClient has failed validation; ignoring
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.18.1+9fbee8e
-  Session Id:              2b324b6c735249db9ae6a6fb33cedb35
-  Correlation Id:          d8c9c478ef40d4cb0a903b2b4c080655
-  External correlation Id: 6467351510845582556
-  Machine Id:              UZOGfRQEpFHW+KJ4qMVLIVXU7Bo=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Tokyusk-6000.5.8" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Tokyusk-6000.5.8-notifications" at "2026-09-23T18:55:35.8868508Z"
-[Licensing::Module] Licensing Background thread has ended after 2.16s
-[Licensing::Module] Licensing is initialized (took 1.89s).
+  Session Id:              32d1ad1704dd40a78d52663744e6792e
+  Correlation Id:          38eb8b451b396269625a8064f4a9963b
+  External correlation Id: 3188942919751185850
+  Machine Id:              UcZ7RCAKPSsWTklzB5NEknOmBLo=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-LABORATORIO-6000.5.8" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-LABORATORIO-6000.5.8-notifications" at "2026-09-24T00:02:28.1652561Z"
+[Licensing::Module] Licensing Background thread has ended after 0.97s
+[Licensing::Module] Licensing is initialized (took 0.78s).
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Module] License group:
   Id: 4673861781209-UnityPersXXXX
   Product: Unity Personal
   Type: Assigned
   Expiration: Unlimited
-Refreshing native plugins compatible for Editor in 14.30 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 8.52 ms, found 10 plugins.
 Initialize engine version: 6000.5.8f1 (5cb7df797b7d)
-[Subsystems] Discovering subsystems at path D:/Unity Hub/6000.5.8f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/GitHub/vr/VR1/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/MULTIMEDIA/Desktop/Pruebas Github/vr/VR1/Assets
 Forcing GfxDevice: Direct3D 12
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 d3d12: failed to query info queue interface (0x80004002).
 Direct3D:
-    Version:         Direct3D 12 [level 12.1]
-    Renderer:        NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 3060 (ID=0x2504)
     Vendor:          NVIDIA
-    VRAM:            5966 MB
-    App VRAM Budget: 5198 MB
-    Driver:          32.0.16.1656
+    VRAM:            12115 MB
+    App VRAM Budget: 11347 MB
+    Driver:          32.0.15.9595
 Initialize mono
-Mono path[0] = 'D:/Unity Hub/6000.5.8f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Unity Hub/6000.5.8f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
-Mono path[2] = 'D:/Unity Hub/6000.5.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'D:/Unity Hub/6000.5.8f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56492
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56836
 CodeReloadManager initialized
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Unity Hub/6000.5.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: D:/Unity Hub/6000.5.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.002383 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.002620 seconds.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
@@ -158,30 +158,30 @@ Package Manager log level set to [2]
 [Package Manager] Cannot connect to Unity Package Manager local server
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.647 seconds
-Domain Reload Profiling: 1298ms
-	BeginReloadAssembly (177ms)
-	RebuildCommonClasses (6ms)
-	RebuildNativeTypeToScriptingClass (18ms)
-	initialDomainReloadingComplete (81ms)
-	LoadAllAssembliesAndSetupDomain (368ms)
-		LoadAssemblies (177ms)
-		AnalyzeDomain (274ms)
-			TypeCache.Refresh (272ms)
-				TypeCache.ScanAssembly (257ms)
-	FinalizeReload (649ms)
+- Finished resetting the current domain, in  0.482 seconds
+Domain Reload Profiling: 1029ms
+	BeginReloadAssembly (133ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (74ms)
+	LoadAllAssembliesAndSetupDomain (317ms)
+		LoadAssemblies (130ms)
+		AnalyzeDomain (238ms)
+			TypeCache.Refresh (236ms)
+				TypeCache.ScanAssembly (222ms)
+	FinalizeReload (483ms)
 		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (10ms)
-			BeforeProcessingInitializeOnLoad (114ms)
-			ProcessInitializeOnLoadAttributes (118ms)
-			ProcessInitializeOnLoadMethodAttributes (274ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (89ms)
+			ProcessInitializeOnLoadAttributes (90ms)
+			ProcessInitializeOnLoadMethodAttributes (215ms)
 Initializing Unity extensions:
 [Licensing::Client] Successfully resolved entitlement details
 ========================================================================
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-Refreshing native plugins compatible for Editor in 8.60 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 5.64 ms, found 10 plugins.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -224,7 +224,7 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Assets queued for import after Refresh completed:
 	Assets/XR/Settings/OpenXRPackageSettings.asset
-Asset Pipeline Refresh (id=936a1ef92c2517f4a9644b55bf65dae9): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=4f718eb5603ca6647b6fc8e51bf57c86): Total: 0.002 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
 Assertion failed on expression: 'm_Ptr'
 UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
@@ -275,7 +275,7 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Assets queued for import after Refresh completed:
 	Assets/XR/Settings/OpenXRPackageSettings.asset
-Asset Pipeline Refresh (id=1e091650e555e0d43b3ed54bb650da87): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=0b8f676d27ec3a24dadfcf646d4921ee): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
 Assertion failed on expression: 'm_Ptr'
 UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
@@ -300,28 +300,29 @@ Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  1.665 seconds
-Domain Reload Profiling: 2703ms
-	BeginReloadAssembly (265ms)
-		DisableScriptedObjects (11ms)
-		CreateAndSetChildDomain (38ms)
-	RebuildCommonClasses (11ms)
-	RebuildNativeTypeToScriptingClass (19ms)
-	initialDomainReloadingComplete (71ms)
-	LoadAllAssembliesAndSetupDomain (670ms)
-		LoadAssemblies (400ms)
-		AnalyzeDomain (271ms)
-			TypeCache.Refresh (192ms)
-				TypeCache.ScanAssembly (175ms)
-			BuildScriptInfoCaches (71ms)
+- Finished resetting the current domain, in  1.345 seconds
+Domain Reload Profiling: 2220ms
+	BeginReloadAssembly (189ms)
+		DisableScriptedObjects (9ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (8ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (602ms)
+		LoadAssemblies (316ms)
+		AnalyzeDomain (248ms)
+			TypeCache.Refresh (159ms)
+				TypeCache.ScanAssembly (141ms)
+			BuildScriptInfoCaches (81ms)
 			ResolveRequiredComponents (6ms)
-	FinalizeReload (1667ms)
+	FinalizeReload (1346ms)
 		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (10ms)
-			BeforeProcessingInitializeOnLoad (128ms)
-			ProcessInitializeOnLoadAttributes (887ms)
-			ProcessInitializeOnLoadMethodAttributes (388ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (98ms)
+			ProcessInitializeOnLoadAttributes (725ms)
+			ProcessInitializeOnLoadMethodAttributes (315ms)
+			AfterProcessingInitializeOnLoad (5ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
 AcceleratorClientConnectionCallback - disconnected - :0
 WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
@@ -342,12 +343,12 @@ WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 9.12 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 6.06 ms, found 10 plugins.
 Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
 Curl error 3: URL rejected: Malformed input to a URL function
-Unloading 6590 unused Assets / (8.2 MB). Loaded Objects now: 7679.
-Memory consumption went from 367.9 MB to 359.6 MB.
-Total: 30.379800 ms (FindLiveObjects: 2.326000 ms CreateObjectMapping: 3.359600 ms MarkObjects: 19.923800 ms  DeleteObjects: 4.766500 ms)
+Unloading 6590 unused Assets / (9.6 MB). Loaded Objects now: 7679.
+Memory consumption went from 367.9 MB to 358.3 MB.
+Total: 20.877900 ms (FindLiveObjects: 1.068500 ms CreateObjectMapping: 2.333400 ms MarkObjects: 12.323600 ms  DeleteObjects: 5.149600 ms)
 
 ========================================================================
 Received Prepare
@@ -370,11 +371,11 @@ WARNING: Shader If subshaders removal was intentional, you may have forgotten tu
 WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 8.69 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 7.54 ms, found 10 plugins.
 Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7679.
 Memory consumption went from 360.7 MB to 357.7 MB.
-Total: 16.877700 ms (FindLiveObjects: 0.363900 ms CreateObjectMapping: 0.688400 ms MarkObjects: 15.121600 ms  DeleteObjects: 0.702500 ms)
+Total: 15.764900 ms (FindLiveObjects: 0.579600 ms CreateObjectMapping: 1.046600 ms MarkObjects: 13.450500 ms  DeleteObjects: 0.686500 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
@@ -383,7 +384,7 @@ EnvironmentDependencyValues requested are different than current active one (req
 Received Prepare
 AcceleratorClientConnectionCallback - disconnected - :0
 Begin MonoManager ReloadAssembly
-Refreshing native plugins compatible for Editor in 8.18 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 5.99 ms, found 10 plugins.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -397,26 +398,27 @@ Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  1.670 seconds
-Domain Reload Profiling: 2551ms
-	BeginReloadAssembly (331ms)
-		DisableScriptedObjects (12ms)
-		CreateAndSetChildDomain (66ms)
-	RebuildCommonClasses (11ms)
-	RebuildNativeTypeToScriptingClass (18ms)
-	initialDomainReloadingComplete (82ms)
-	LoadAllAssembliesAndSetupDomain (437ms)
-		LoadAssemblies (405ms)
-		AnalyzeDomain (22ms)
+- Finished resetting the current domain, in  1.386 seconds
+Domain Reload Profiling: 2078ms
+	BeginReloadAssembly (263ms)
+		DisableScriptedObjects (11ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (344ms)
+		LoadAssemblies (297ms)
+		AnalyzeDomain (17ms)
 			TypeCache.Refresh (7ms)
-			ResolveRequiredComponents (9ms)
-	FinalizeReload (1671ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1387ms)
 		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (11ms)
-			BeforeProcessingInitializeOnLoad (113ms)
-			ProcessInitializeOnLoadAttributes (890ms)
-			ProcessInitializeOnLoadMethodAttributes (227ms)
-		AwakeInstancesAfterBackupRestoration (25ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (88ms)
+			ProcessInitializeOnLoadAttributes (736ms)
+			ProcessInitializeOnLoadMethodAttributes (217ms)
+			AfterProcessingInitializeOnLoad (6ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
 WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
@@ -435,64 +437,162 @@ WARNING: Shader If subshaders removal was intentional, you may have forgotten tu
 WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 8.99 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 5.58 ms, found 10 plugins.
 Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6711 unused Assets / (6.8 MB). Loaded Objects now: 7722.
-Memory consumption went from 413.2 MB to 406.4 MB.
-Total: 23.957000 ms (FindLiveObjects: 0.682000 ms CreateObjectMapping: 2.274600 ms MarkObjects: 17.784900 ms  DeleteObjects: 3.214200 ms)
+Unloading 6711 unused Assets / (6.5 MB). Loaded Objects now: 7722.
+Memory consumption went from 412.3 MB to 405.8 MB.
+Total: 19.738900 ms (FindLiveObjects: 0.855800 ms CreateObjectMapping: 2.808100 ms MarkObjects: 12.666200 ms  DeleteObjects: 3.406600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2097152 -> 2359296
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 7.42 ms, found 10 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.408 seconds
+Domain Reload Profiling: 2170ms
+	BeginReloadAssembly (281ms)
+		DisableScriptedObjects (13ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (10ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (382ms)
+		LoadAssemblies (322ms)
+		AnalyzeDomain (22ms)
+			TypeCache.Refresh (10ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1408ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			BeforeProcessingInitializeOnLoad (93ms)
+			ProcessInitializeOnLoadAttributes (755ms)
+			ProcessInitializeOnLoadMethodAttributes (245ms)
+			AfterProcessingInitializeOnLoad (7ms)
+		AwakeInstancesAfterBackupRestoration (30ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 5.65 ms, found 10 plugins.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6711 unused Assets / (6.3 MB). Loaded Objects now: 7724.
+Memory consumption went from 411.9 MB to 405.6 MB.
+Total: 18.779000 ms (FindLiveObjects: 0.782500 ms CreateObjectMapping: 2.445800 ms MarkObjects: 11.820000 ms  DeleteObjects: 3.729000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2097152 -> 2359296
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 5.81 ms, found 10 plugins.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7724.
+Memory consumption went from 367.7 MB to 364.7 MB.
+Total: 13.208800 ms (FindLiveObjects: 0.586800 ms CreateObjectMapping: 1.160900 ms MarkObjects: 10.867400 ms  DeleteObjects: 0.592000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2097152 -> 2359296
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 6.25 ms, found 10 plugins.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7724.
+Memory consumption went from 368.2 MB to 365.2 MB.
+Total: 14.182000 ms (FindLiveObjects: 0.473100 ms CreateObjectMapping: 0.954500 ms MarkObjects: 11.975700 ms  DeleteObjects: 0.776400 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
   graphicsApiMask: 2097152 -> 2359296
 ========================================================================
 Received Import Request.
-  Time of request: 2026-09-23T18:55:59.772855Z
-  Time since last request: 8100.53616559999955 seconds.
-  importAddress: GUID: eaf93683f7e698449ba7570c10496c85 - Path: Assets/Input Action - Importer: PreviewImporter
-Importing 'GUID: eaf93683f7e698449ba7570c10496c85 - Path: Assets/Input Action - Importer: PreviewImporter' with importer (PreviewImporter)
-Imported 'GUID: eaf93683f7e698449ba7570c10496c85' -> (Import Result ID: '66d4a0c805bf9c6a83d29e8810bbae92') in 0.021 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=72fe2eaa91c1e33db2c48a7f667a3636 DependenciesID=ad609c089220e5a1af005b34b49b015b StaticDependenciesID=aff6bdfa4b696c9a1c02afc2c8419cf8 
+  Time of request: 2026-09-24T00:10:17.3348031Z
+  Time since last request: 461569.6027766999905 seconds.
+  importAddress: GUID: 34e58c66c04d8ce48883529a50505ac2 - Path: Assets/Scripts - Importer: PreviewImporter
+Importing 'GUID: 34e58c66c04d8ce48883529a50505ac2 - Path: Assets/Scripts - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 34e58c66c04d8ce48883529a50505ac2' -> (Import Result ID: '7d582b8d422a5cb9767e005102501c59') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=301e00729ecbcc30882634ff4ef22d8c DependenciesID=0ff11dfc9d35ac66c4b098f3579903a1 StaticDependenciesID=d373989d49c5e4a27b753a14ca391d19 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-24T00:10:19.5737615Z
+  Time since last request: 2.2123504 seconds.
+  importAddress: GUID: 7481ab940c8f6e84e92f6a6e74c3c19d - Path: Assets/Scripts/InputActionControlador.cs - Importer: PreviewImporter
+Importing 'GUID: 7481ab940c8f6e84e92f6a6e74c3c19d - Path: Assets/Scripts/InputActionControlador.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 7481ab940c8f6e84e92f6a6e74c3c19d' -> (Import Result ID: '4eac16c287993ef44e3efaa5d53bf716') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1d9e904067474b9aceae9ba408f3ce91 DependenciesID=9e8860d394d69306ce22961772a466ed StaticDependenciesID=f8c5f747d4e40cbe32547f1528469890 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Prepare
 AcceleratorClientConnectionCallback - disconnected - :0
-Begin MonoManager ReloadAssembly
-Refreshing native plugins compatible for Editor in 7.59 ms, found 10 plugins.
-Native extension for Android target not found
-Native extension for WindowsStandalone target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
-[Licensing::Client] Successfully resolved entitlement details
-Mono: successfully reloaded assembly
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  1.619 seconds
-Domain Reload Profiling: 2479ms
-	BeginReloadAssembly (353ms)
-		DisableScriptedObjects (12ms)
-		CreateAndSetChildDomain (77ms)
-	RebuildCommonClasses (10ms)
-	RebuildNativeTypeToScriptingClass (22ms)
-	initialDomainReloadingComplete (79ms)
-	LoadAllAssembliesAndSetupDomain (395ms)
-		LoadAssemblies (397ms)
-		AnalyzeDomain (18ms)
-			TypeCache.Refresh (6ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (1621ms)
-		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (9ms)
-			BeforeProcessingInitializeOnLoad (106ms)
-			ProcessInitializeOnLoadAttributes (906ms)
-			ProcessInitializeOnLoadMethodAttributes (256ms)
-			AfterProcessingInitializeOnLoad (6ms)
-		AwakeInstancesAfterBackupRestoration (34ms)
 WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
@@ -511,41 +611,41 @@ WARNING: Shader If subshaders removal was intentional, you may have forgotten tu
 WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 9.93 ms, found 10 plugins.
-Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6711 unused Assets / (7.1 MB). Loaded Objects now: 7726.
-Memory consumption went from 416.6 MB to 409.5 MB.
-Total: 21.680900 ms (FindLiveObjects: 0.720600 ms CreateObjectMapping: 2.245400 ms MarkObjects: 15.351600 ms  DeleteObjects: 3.361900 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-EnvironmentDependencyValues requested are different than current active one (requested -> active):
-  graphicsApiMask: 2097152 -> 2359296
-========================================================================
-Received Prepare
-AcceleratorClientConnectionCallback - disconnected - :0
-WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 8.79 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 7.69 ms, found 10 plugins.
 Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7726.
-Memory consumption went from 372.4 MB to 369.4 MB.
-Total: 17.937700 ms (FindLiveObjects: 0.445500 ms CreateObjectMapping: 0.885300 ms MarkObjects: 15.758000 ms  DeleteObjects: 0.847200 ms)
+Memory consumption went from 365.6 MB to 362.6 MB.
+Total: 16.775800 ms (FindLiveObjects: 0.528300 ms CreateObjectMapping: 1.009100 ms MarkObjects: 14.261800 ms  DeleteObjects: 0.974600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2097152 -> 2359296
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 8.27 ms, found 10 plugins.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6547 unused Assets / (6.1 MB). Loaded Objects now: 7713.
+Memory consumption went from 371.0 MB to 364.9 MB.
+Total: 29.210500 ms (FindLiveObjects: 0.948900 ms CreateObjectMapping: 3.389300 ms MarkObjects: 18.917000 ms  DeleteObjects: 5.953400 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
@@ -556,7 +656,7 @@ AcceleratorClientConnectionCallback - disconnected - :0
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Client] Successfully resolved entitlement details
 Begin MonoManager ReloadAssembly
-Refreshing native plugins compatible for Editor in 7.99 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 8.15 ms, found 10 plugins.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -570,26 +670,28 @@ Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  1.597 seconds
-Domain Reload Profiling: 2466ms
-	BeginReloadAssembly (370ms)
-		DisableScriptedObjects (35ms)
-		CreateAndSetChildDomain (74ms)
-	RebuildCommonClasses (10ms)
-	RebuildNativeTypeToScriptingClass (18ms)
-	initialDomainReloadingComplete (75ms)
-	LoadAllAssembliesAndSetupDomain (394ms)
-		LoadAssemblies (399ms)
-		AnalyzeDomain (17ms)
-			TypeCache.Refresh (6ms)
+- Finished resetting the current domain, in  1.590 seconds
+Domain Reload Profiling: 2780ms
+	BeginReloadAssembly (349ms)
+		DisableScriptedObjects (16ms)
+		CreateAndSetChildDomain (96ms)
+	RebuildCommonClasses (13ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (85ms)
+	LoadAllAssembliesAndSetupDomain (715ms)
+		LoadAssemblies (395ms)
+		AnalyzeDomain (276ms)
+			TypeCache.Refresh (18ms)
+			BuildScriptInfoCaches (248ms)
 			ResolveRequiredComponents (7ms)
-	FinalizeReload (1599ms)
+	FinalizeReload (1591ms)
 		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (9ms)
-			BeforeProcessingInitializeOnLoad (107ms)
-			ProcessInitializeOnLoadAttributes (915ms)
-			ProcessInitializeOnLoadMethodAttributes (236ms)
-		AwakeInstancesAfterBackupRestoration (33ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			BeforeProcessingInitializeOnLoad (98ms)
+			ProcessInitializeOnLoadAttributes (877ms)
+			ProcessInitializeOnLoadMethodAttributes (261ms)
+			AfterProcessingInitializeOnLoad (7ms)
+		AwakeInstancesAfterBackupRestoration (32ms)
 WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
@@ -608,11 +710,11 @@ WARNING: Shader If subshaders removal was intentional, you may have forgotten tu
 WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 9.76 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 8.72 ms, found 10 plugins.
 Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6711 unused Assets / (7.0 MB). Loaded Objects now: 7728.
-Memory consumption went from 423.0 MB to 416.0 MB.
-Total: 24.809800 ms (FindLiveObjects: 0.774100 ms CreateObjectMapping: 3.142000 ms MarkObjects: 16.443200 ms  DeleteObjects: 4.448700 ms)
+Unloading 6711 unused Assets / (6.7 MB). Loaded Objects now: 7728.
+Memory consumption went from 416.0 MB to 409.2 MB.
+Total: 23.930200 ms (FindLiveObjects: 0.953000 ms CreateObjectMapping: 3.355800 ms MarkObjects: 14.693300 ms  DeleteObjects: 4.926900 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
@@ -638,22 +740,31 @@ WARNING: Shader If subshaders removal was intentional, you may have forgotten tu
 WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 9.13 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 9.08 ms, found 10 plugins.
 Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7728.
-Memory consumption went from 378.9 MB to 375.9 MB.
-Total: 20.156600 ms (FindLiveObjects: 0.447200 ms CreateObjectMapping: 0.741400 ms MarkObjects: 17.898900 ms  DeleteObjects: 1.067600 ms)
+Memory consumption went from 371.8 MB to 368.8 MB.
+Total: 16.235200 ms (FindLiveObjects: 0.563100 ms CreateObjectMapping: 1.364500 ms MarkObjects: 13.463400 ms  DeleteObjects: 0.842300 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
   graphicsApiMask: 2097152 -> 2359296
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-24T00:19:51.7624172Z
+  Time since last request: 572.17316700000003 seconds.
+  importAddress: GUID: 3568a9e5d8a881140817ca8e912a5033 - Path: Assets/Input Action/InputAction.inputactions - Importer: PreviewImporter
+Importing 'GUID: 3568a9e5d8a881140817ca8e912a5033 - Path: Assets/Input Action/InputAction.inputactions - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3568a9e5d8a881140817ca8e912a5033' -> (Import Result ID: '9aac8115fec9f76f4dc57216c982a149') in 0.026 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=556fc439ccc675ba805b4792aecf4111 DependenciesID=8c6b4aa5b2594909df44d570963d6d6f StaticDependenciesID=6cb3c84de7527fce44a62eaf494ffc41 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
 ========================================================================
 Received Prepare
 AcceleratorClientConnectionCallback - disconnected - :0
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Client] Successfully resolved entitlement details
 Begin MonoManager ReloadAssembly
-Refreshing native plugins compatible for Editor in 8.09 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 5.73 ms, found 10 plugins.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -667,124 +778,27 @@ Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  1.638 seconds
-Domain Reload Profiling: 2516ms
-	BeginReloadAssembly (360ms)
-		DisableScriptedObjects (15ms)
-		CreateAndSetChildDomain (84ms)
-	RebuildCommonClasses (11ms)
-	RebuildNativeTypeToScriptingClass (19ms)
-	initialDomainReloadingComplete (78ms)
-	LoadAllAssembliesAndSetupDomain (408ms)
-		LoadAssemblies (414ms)
-		AnalyzeDomain (19ms)
-			TypeCache.Refresh (7ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (1639ms)
-		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (9ms)
-			BeforeProcessingInitializeOnLoad (111ms)
-			ProcessInitializeOnLoadAttributes (934ms)
-			ProcessInitializeOnLoadMethodAttributes (252ms)
-			AfterProcessingInitializeOnLoad (3ms)
-		AwakeInstancesAfterBackupRestoration (31ms)
-WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 8.29 ms, found 10 plugins.
-Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6711 unused Assets / (7.0 MB). Loaded Objects now: 7730.
-Memory consumption went from 428.6 MB to 421.6 MB.
-Total: 20.690200 ms (FindLiveObjects: 0.710300 ms CreateObjectMapping: 2.278000 ms MarkObjects: 14.245100 ms  DeleteObjects: 3.455200 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-EnvironmentDependencyValues requested are different than current active one (requested -> active):
-  graphicsApiMask: 2097152 -> 2359296
-========================================================================
-Received Prepare
-AcceleratorClientConnectionCallback - disconnected - :0
-WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
-WARNING: Shader Did you use #pragma only_renderers and omit this platform?
-WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 9.93 ms, found 10 plugins.
-Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7730.
-Memory consumption went from 384.4 MB to 381.4 MB.
-Total: 18.300800 ms (FindLiveObjects: 0.465100 ms CreateObjectMapping: 0.787100 ms MarkObjects: 16.110200 ms  DeleteObjects: 0.936600 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-EnvironmentDependencyValues requested are different than current active one (requested -> active):
-  graphicsApiMask: 2097152 -> 2359296
-========================================================================
-Received Prepare
-AcceleratorClientConnectionCallback - disconnected - :0
-[Licensing::Client] Successfully resolved entitlement details
-[Licensing::Client] Successfully resolved entitlement details
-Begin MonoManager ReloadAssembly
-Refreshing native plugins compatible for Editor in 9.35 ms, found 10 plugins.
-Native extension for Android target not found
-Native extension for WindowsStandalone target not found
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
-Mono: successfully reloaded assembly
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  1.598 seconds
-Domain Reload Profiling: 2474ms
-	BeginReloadAssembly (363ms)
-		DisableScriptedObjects (25ms)
-		CreateAndSetChildDomain (79ms)
-	RebuildCommonClasses (16ms)
+- Finished resetting the current domain, in  1.429 seconds
+Domain Reload Profiling: 2221ms
+	BeginReloadAssembly (303ms)
+		DisableScriptedObjects (12ms)
+		CreateAndSetChildDomain (75ms)
+	RebuildCommonClasses (9ms)
 	RebuildNativeTypeToScriptingClass (18ms)
-	initialDomainReloadingComplete (76ms)
-	LoadAllAssembliesAndSetupDomain (401ms)
-		LoadAssemblies (396ms)
-		AnalyzeDomain (20ms)
-			TypeCache.Refresh (6ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (1600ms)
+	initialDomainReloadingComplete (70ms)
+	LoadAllAssembliesAndSetupDomain (390ms)
+		LoadAssemblies (351ms)
+		AnalyzeDomain (17ms)
+			TypeCache.Refresh (8ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1430ms)
 		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (9ms)
-			BeforeProcessingInitializeOnLoad (106ms)
-			ProcessInitializeOnLoadAttributes (924ms)
-			ProcessInitializeOnLoadMethodAttributes (230ms)
-		AwakeInstancesAfterBackupRestoration (31ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (90ms)
+			ProcessInitializeOnLoadAttributes (804ms)
+			ProcessInitializeOnLoadMethodAttributes (240ms)
+			AfterProcessingInitializeOnLoad (7ms)
+		AwakeInstancesAfterBackupRestoration (37ms)
 WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
@@ -803,11 +817,41 @@ WARNING: Shader If subshaders removal was intentional, you may have forgotten tu
 WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 8.16 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 7.27 ms, found 10 plugins.
 Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6711 unused Assets / (6.5 MB). Loaded Objects now: 7732.
-Memory consumption went from 434.5 MB to 428.0 MB.
-Total: 23.680000 ms (FindLiveObjects: 2.073400 ms CreateObjectMapping: 2.616000 ms MarkObjects: 15.480300 ms  DeleteObjects: 3.508100 ms)
+Unloading 6711 unused Assets / (6.7 MB). Loaded Objects now: 7731.
+Memory consumption went from 418.1 MB to 411.4 MB.
+Total: 29.108400 ms (FindLiveObjects: 0.894100 ms CreateObjectMapping: 2.737300 ms MarkObjects: 19.055500 ms  DeleteObjects: 6.418700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2097152 -> 2359296
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 7.60 ms, found 10 plugins.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7731.
+Memory consumption went from 373.9 MB to 370.9 MB.
+Total: 14.678200 ms (FindLiveObjects: 0.808000 ms CreateObjectMapping: 1.101800 ms MarkObjects: 12.090100 ms  DeleteObjects: 0.676700 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
@@ -835,9 +879,77 @@ WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
 Refreshing native plugins compatible for Editor in 8.54 ms, found 10 plugins.
 Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7732.
-Memory consumption went from 390.3 MB to 387.4 MB.
-Total: 17.565200 ms (FindLiveObjects: 0.442400 ms CreateObjectMapping: 0.795000 ms MarkObjects: 15.479600 ms  DeleteObjects: 0.846600 ms)
+Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7731.
+Memory consumption went from 374.3 MB to 371.3 MB.
+Total: 15.175000 ms (FindLiveObjects: 0.490800 ms CreateObjectMapping: 1.116700 ms MarkObjects: 12.879500 ms  DeleteObjects: 0.687100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2097152 -> 2359296
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 5.76 ms, found 10 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.406 seconds
+Domain Reload Profiling: 2203ms
+	BeginReloadAssembly (328ms)
+		DisableScriptedObjects (11ms)
+		CreateAndSetChildDomain (99ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (374ms)
+		LoadAssemblies (325ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (8ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1407ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (92ms)
+			ProcessInitializeOnLoadAttributes (789ms)
+			ProcessInitializeOnLoadMethodAttributes (228ms)
+			AfterProcessingInitializeOnLoad (5ms)
+		AwakeInstancesAfterBackupRestoration (33ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 8.38 ms, found 10 plugins.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6711 unused Assets / (6.3 MB). Loaded Objects now: 7733.
+Memory consumption went from 422.3 MB to 416.0 MB.
+Total: 23.423200 ms (FindLiveObjects: 1.318900 ms CreateObjectMapping: 3.299700 ms MarkObjects: 14.060500 ms  DeleteObjects: 4.727400 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
@@ -863,13 +975,43 @@ WARNING: Shader If subshaders removal was intentional, you may have forgotten tu
 WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
-Refreshing native plugins compatible for Editor in 8.86 ms, found 10 plugins.
+Refreshing native plugins compatible for Editor in 7.10 ms, found 10 plugins.
 Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7732.
-Memory consumption went from 390.8 MB to 387.8 MB.
-Total: 16.323000 ms (FindLiveObjects: 0.435000 ms CreateObjectMapping: 0.788400 ms MarkObjects: 14.313000 ms  DeleteObjects: 0.784900 ms)
+Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7733.
+Memory consumption went from 378.1 MB to 375.2 MB.
+Total: 23.166400 ms (FindLiveObjects: 0.696000 ms CreateObjectMapping: 1.088400 ms MarkObjects: 20.232800 ms  DeleteObjects: 1.145500 ms)
 
-Prepare: number of updated asset objects reloaded= 1
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2097152 -> 2359296
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 10.21 ms, found 10 plugins.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (3.0 MB). Loaded Objects now: 7733.
+Memory consumption went from 378.6 MB to 375.6 MB.
+Total: 20.181300 ms (FindLiveObjects: 0.705400 ms CreateObjectMapping: 1.193900 ms MarkObjects: 17.411000 ms  DeleteObjects: 0.868300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 EnvironmentDependencyValues requested are different than current active one (requested -> active):
   graphicsApiMask: 2097152 -> 2359296
 Editor requested this worker to shutdown with reason: Editor is closing down
